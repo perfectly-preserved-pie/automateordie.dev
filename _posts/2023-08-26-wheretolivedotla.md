@@ -1,4 +1,8 @@
-# WhereToLive.LA
+---
+title: "WhereToLive.LA"
+series: "WhereToLive.LA"
+series_order: 1
+---
 
 ## You can view [my source code](https://github.com/perfectly-preserved-pie/larentals) on GitHub. The website is located at [https://wheretolive.la](https://wheretolive.la).
 
