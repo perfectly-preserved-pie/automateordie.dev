@@ -62,7 +62,7 @@ author:
   bio    : "I'm a jack of ~~all~~ ~~most~~ some trades with a love for automation and operations. I like to spend part of my free time either developing fun Dash Python applications or gardening, depending on how sick of staring at a computer screen I am that day."
   links:
     - label: "What I'm Listening To"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-music"
       url: "https://sahib.fm"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
