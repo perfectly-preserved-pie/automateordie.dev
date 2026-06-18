@@ -89,6 +89,9 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sahibbhai"
 
+analytics:
+  provider: "custom"
+
 comments:
   provider: "disqus"
   disqus:
