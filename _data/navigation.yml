@@ -2,6 +2,6 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Series"
-    url: /categories/
+    url: /series/
   - title: "About"
     url: /about/
