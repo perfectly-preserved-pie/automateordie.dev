@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Nothing In Particular
 subtitle: "Blurring the line between efficiency and laziness"
-email: me@sahibbhai.com
+email: ???
 description: >- # this means to ignore newlines until "baseurl:"
   Why spend 5 minutes doing something manually when you can spend 5 days trying to automate it?
 twitter_username: username
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Sahib Bhai"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a jack of ~all~ ~most~ some trades with a love for automation and operations. I like to spend part of my free time either developing fun Dash Python applications or gardening, depending on how sick I am of staring at a computer screen that day :)"
+  bio    : "I'm a jack of ~all~ ~most~ some trades with a love for automation and operations. I like to spend part of my free time either developing fun Dash Python applications or gardening, depending on how sick of staring at a computer screen I am that day."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
